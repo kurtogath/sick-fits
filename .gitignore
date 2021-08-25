@@ -8,3 +8,7 @@ layout.md
 variables.env
 *.env
 .keystone
+frontend/package-lock.json
+# while testing npm5
+***/package-lock.json
+***/yarn.lock
