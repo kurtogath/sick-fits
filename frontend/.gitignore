@@ -11,5 +11,5 @@ variables.env
 package-lock.json
 
 # while testing npm5
-***/package-lock.json
-***/yarn.lock
+**/package-lock.json
+**/yarn.lock
